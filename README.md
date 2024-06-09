@@ -1,1 +1,1 @@
-This is a console based rock paper sissor game
+Rock Paper Scissors game with javascript console as a practice 
